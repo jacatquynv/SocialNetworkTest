@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466495783101",
+    "project_id": "socialnetworktest-c60c5",
+    "storage_bucket": "socialnetworktest-c60c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466495783101:android:5bfe30f4af304a36cef7d4",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SocialNetworkTest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466495783101-65mpk9tm0iv9tic0ps5a30or5ajn2e2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEeOQhefk2x_gSxDUGFhLS6qeEMhb4U4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466495783101-65mpk9tm0iv9tic0ps5a30or5ajn2e2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
