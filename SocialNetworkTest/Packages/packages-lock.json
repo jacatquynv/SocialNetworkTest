@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.omnilatent.litjson": {
+      "version": "https://github.com/Omnilatent/UnityLitJson.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "feead376a9e0657a2cef4d8ef78ae2414ae4367e"
+    },
     "com.unity.2d.animation": {
       "version": "5.0.7",
       "depth": 0,
